@@ -43,4 +43,4 @@ if __name__ == '__main__':
         else:
             aluno.disciplinas.append(newline)
 
-print (aluno.disciplinas)
+    print (aluno.disciplinas)
